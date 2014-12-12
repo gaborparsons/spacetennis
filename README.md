@@ -1,5 +1,8 @@
 spacetennis
 ===========
 
-Parsons MFA Design and Technology's experimentation for OpenCV. The project uses OpenCV.
+Final Project for Advanced Creative Computing at Parsons MFA  Design and Technology.
 
+Experimentation in physics and sound input.
+
+The project uses the Minim Processing Library.
